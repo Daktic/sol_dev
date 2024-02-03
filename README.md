@@ -2,7 +2,7 @@ Site: https://www.soldev.app/course
 
 # Projects:
 ## dApp development
- - [] Introduction to cryptography and Solana clients
+ - [ ] Introduction to cryptography and Solana clients
  - [] Client Interaction with Common Solana Programs
  
 ## On-chain program development
