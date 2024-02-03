@@ -7,6 +7,7 @@ Site: https://www.soldev.app/course
  
 ## On-chain program development
  - [] Basic Solana Program Development
+   - [x] Cryptography fundamentals
  - [] Intermediate Solana Program Development
  - [] Anchor Program Development
  - [] Beyond the Basics
